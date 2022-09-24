@@ -41,7 +41,7 @@ As a developer who writes about tech, I want a CMS-style blog site so that I can
 - I click on the logout option in the navigation
 - I am signed out of the site
 - When I am idle on the site for more than a set time, I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
-```
+
 
 ## Mock-Up
 
