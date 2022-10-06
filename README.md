@@ -1,8 +1,20 @@
 # 14 Model-View-Controller (MVC): Tech Blog
 
-## Your Task
 
-The ask is to build a CMS-style blog site similar to a Wordpress site that follows MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication - all from scratch & deployed in Heroku. The Blog site’s where developers can publish their blog posts and comment on other developers’ posts as well
+## Table of Contents
+
+1. [Task](#task)
+2. [User Story](#user-story)
+4. [Acceptance Criteria](#acceptance-criteria)
+5. [Resources](#resources)
+6. [Installation](#installation)
+7. [Usage](#usage)
+8. [Authors and Acknowledgements](#authors-and-acknowledgements)
+
+
+## Task
+
+The ask is to build a CMS-style blog site similar to a Wordpress site that follows MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication - all from scratch & deployed in Heroku. The Blog site’s where developers can publish their blog posts and comment on other developers' posts as well
 
 
 ## User Story
@@ -49,3 +61,24 @@ The following animation demonstrates the application functionality:
 
 ![Animation cycles through signing into the app, clicking on buttons, and updating blog posts.](.Assets/) 
 
+- [Repository](https://github.com/Cinderbeast/14-Model-View-Controller-MVC-Tech-Blog)
+
+- [Heroku Link](https://git.heroku.com/polar-brook-38055.git)
+
+## Usage
+
+- install npm init -y to create a new .json file
+- npm install
+- npm install inquirer
+- npm install mysql
+- mysql -u root
+- source db/schema.sql
+- exit
+- npm start
+- make sure server.js is connected to SQL before continuing
+- In a new browser open local port 3001
+
+
+## Credits:
+
+Code created by University of Utah Bootcamp, edited by Cindy Chynoweth and with the help of other fabulous developers out there!
