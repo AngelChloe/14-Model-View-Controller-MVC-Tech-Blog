@@ -3,16 +3,17 @@
     <div class="card col-11 m-4 p-1">
         <div class="card-title d-flex justify-content-between p-2 h4">
             <p class="h2 text-dark">{{post.title}}</p>
-            <a href="/dashboard/post/{{id}}"><img src="/images/edit.png" alt="edit"></a>
+            <a href="/dashboard/post/{{id}}">Edit</i></a>
         </div>
         <div class="card-body">{{content}}</div>
     </div>
     {{/each}}
 {{else}}
     <div class="card col-11 m-4 p-1">
-        <div class="card-title d-flex justify-content-between p-2 h4">
+        <div class="card-title d-flex justify-content-between p-2 h4"
             <p class="h2 text-dark">There are no posts</p>
         </div>
         <div class="card-body"></div>
     </div>
 {{/if}}
+

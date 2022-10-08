@@ -4,13 +4,13 @@
 ## Table of Contents
 
 1. [Task](#task)
-2. [User Story](#user-story)
-4. [Acceptance Criteria](#acceptance-criteria)
-5. [Resources](#resources)
-6. [Installation](#installation)
+2. [User Story](#uaser-story)
+3. [Acceptance Criteria](#acceptance-criteria)
+4. [Live Site](#live-link)
+5. [Visuals](#visuals)
+6. [Resources](#resources)
 7. [Usage](#usage)
 8. [Authors and Acknowledgements](#authors-and-acknowledgements)
-
 
 ## Task
 
@@ -20,6 +20,7 @@ The ask is to build a CMS-style blog site similar to a Wordpress site that follo
 ## User Story
 
 As a developer who writes about tech, I want a CMS-style blog site so that I can publish articles, blog posts, and my thoughts and opinions
+
 
 ## Acceptance Criteria
 
@@ -55,15 +56,17 @@ As a developer who writes about tech, I want a CMS-style blog site so that I can
 - When I am idle on the site for more than a set time, I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 
 
-## Mock-Up
+## Visuals
 
-The following animation demonstrates the application functionality:
 
-![Animation cycles through signing into the app, clicking on buttons, and updating blog posts.](.Assets/) 
+
+
+## Resources
+
+- [Live Link]()
 
 - [Repository](https://github.com/Cinderbeast/14-Model-View-Controller-MVC-Tech-Blog)
 
-- [Heroku Link](https://git.heroku.com/polar-brook-38055.git)
 
 ## Usage
 
@@ -71,7 +74,7 @@ The following animation demonstrates the application functionality:
 - npm install
 - npm install inquirer
 - npm install mysql
-- mysql -u root
+- mysql -u root -p
 - source db/schema.sql
 - exit
 - npm start
@@ -79,6 +82,7 @@ The following animation demonstrates the application functionality:
 - In a new browser open local port 3001
 
 
-## Credits:
+## Authors and Acknowledgements:
 
 Code created by University of Utah Bootcamp, edited by Cindy Chynoweth and with the help of other fabulous developers out there!
+
