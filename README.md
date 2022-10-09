@@ -6,7 +6,7 @@
 1. [Task](#task)
 2. [User Story](#uaser-story)
 3. [Acceptance Criteria](#acceptance-criteria)
-4. [Heroku Link](heroku-link)
+4. [Heroku Link](#heroku-link)
 5. [Screen Shots](#screen-shots)
 6. [Resources](#resources)
 7. [Usage](#usage)
