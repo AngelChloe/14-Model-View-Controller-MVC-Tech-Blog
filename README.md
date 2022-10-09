@@ -56,14 +56,27 @@ As a developer who writes about tech, I want a CMS-style blog site so that I can
 - When I am idle on the site for more than a set time, I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 
 
-## Visuals
+## Screen Shots
 
+- MySql Start Up
+![MySql start up](https://user-images.githubusercontent.com/105569378/194733472-be8c2a70-7808-42bf-975b-d091baa60e8d.png)
 
+- Tech Blog Home Page
+![TechBlogStartUp](https://user-images.githubusercontent.com/105569378/194733477-191358cb-8a08-45b7-b435-2088e49339f7.png)
+
+- Login or Sign Up
+![LoginSignUp](https://user-images.githubusercontent.com/105569378/194733483-8753ee98-bcfc-41d4-a060-dfaa7352fe6b.png)
+
+- Creating  Post
+![CreatingA Post](https://user-images.githubusercontent.com/105569378/194733494-b6c8f130-b427-4ab0-9896-18fd6f47b584.png)
+
+- New Post Added
+![NewPostAdded](https://user-images.githubusercontent.com/105569378/194733506-4c1aabbf-6271-46bf-8431-183bc5635c65.png)
 
 
 ## Resources
 
-- [Live Link]()
+- [Heroku Link](https://git.heroku.com/polar-brook-38055.git)
 
 - [Repository](https://github.com/Cinderbeast/14-Model-View-Controller-MVC-Tech-Blog)
 
