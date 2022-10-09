@@ -55,6 +55,9 @@ As a developer who writes about tech, I want a CMS-style blog site so that I can
 - I am signed out of the site
 - When I am idle on the site for more than a set time, I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 
+## Heroku Link
+
+- [Heroku Link](https://git.heroku.com/polar-brook-38055.git)
 
 ## Screen Shots
 
@@ -74,9 +77,7 @@ As a developer who writes about tech, I want a CMS-style blog site so that I can
 ![NewPostAdded](https://user-images.githubusercontent.com/105569378/194733506-4c1aabbf-6271-46bf-8431-183bc5635c65.png)
 
 
-## Resources
-
-- [Heroku Link](https://git.heroku.com/polar-brook-38055.git)
+## Resource
 
 - [Repository](https://github.com/Cinderbeast/14-Model-View-Controller-MVC-Tech-Blog)
 
