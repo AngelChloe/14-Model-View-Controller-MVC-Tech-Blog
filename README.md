@@ -77,7 +77,9 @@ As a developer who writes about tech, I want a CMS-style blog site so that I can
 ![NewPostAdded](https://user-images.githubusercontent.com/105569378/194733506-4c1aabbf-6271-46bf-8431-183bc5635c65.png)
 
 
-## Resource
+## Resources
+
+- [Heroku Link](https://git.heroku.com/polar-brook-38055.git)
 
 - [Repository](https://github.com/Cinderbeast/14-Model-View-Controller-MVC-Tech-Blog)
 
