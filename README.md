@@ -94,8 +94,9 @@ As a developer who writes about tech, I want a CMS-style blog site so that I can
 - source db/schema.sql
 - exit
 - npm start
-- make sure server.js is connected to SQL before continuing
-- In a new browser open local port 3001
+- make sure server.js is connected to SQL before continuing     
+- Heroku login
+
 
 
 ## Authors and Acknowledgements:
