@@ -2,6 +2,7 @@ const router = require("express").Router();
 const { User } = require("../../models");
 const isAuth = require("../../utils/auth");
 
+// gets /api/users
 router.post("/", async (req, res) => {
   try {
     const userData = await User.create({
@@ -22,6 +23,7 @@ router.post("/", async (req, res) => {
   }
 });
 
+// LOGIN
 router.post("/login", async (req, res) => {
   try {
     const userData = await User.findOne({ where: { name: req.body.name } });
@@ -33,6 +35,7 @@ router.post("/login", async (req, res) => {
       return;
     }
 
+    //Validates password
     const validPassword = await userData.checkPassword(req.body.password);
 
     if (!validPassword) {
@@ -43,6 +46,7 @@ router.post("/login", async (req, res) => {
     }
 
     req.session.save(() => {
+      // declare session variables
       req.session.user_id = userData.id;
       req.session.loggedIn = true;
       
