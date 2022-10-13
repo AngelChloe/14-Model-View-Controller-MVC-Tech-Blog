@@ -60,8 +60,6 @@ As a developer who writes about tech, I want a CMS-style blog site so that I can
 
 - [Heroku Link](https://blooming-shore-85267.herokuapp.com)
 
-(https://git.heroku.com/blooming-shore-85267.git)
-
 ## Screen Shots
 
 - MySql Start Up
@@ -81,8 +79,6 @@ As a developer who writes about tech, I want a CMS-style blog site so that I can
 
 
 ## Resources
-
-- [Heroku Link](https://git.heroku.com/polar-brook-38055.git)
 
 - [Repository](https://github.com/Cinderbeast/14-Model-View-Controller-MVC-Tech-Blog)
 
