@@ -58,7 +58,7 @@ As a developer who writes about tech, I want a CMS-style blog site so that I can
 
 ## Heroku Link
 
-- [Heroku Link](https://git.heroku.com/blooming-shore-85267.git)
+- [Heroku Link](https://blooming-shore-85267.herokuapp.com)
 
 ## Screen Shots
 
