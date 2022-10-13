@@ -10,7 +10,8 @@
 5. [Screen Shots](#screen-shots)
 6. [Resources](#resources)
 7. [Usage](#usage)
-8. [Authors and Acknowledgements](#authors-and-acknowledgements)
+8. [Built with](#built-with)
+9. [Authors and Acknowledgements](#authors-and-acknowledgements)
 
 ## Task
 
@@ -97,6 +98,18 @@ As a developer who writes about tech, I want a CMS-style blog site so that I can
 - make sure server.js is connected to SQL before continuing     
 - Heroku login
 
+
+## Built With:
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Node.js](https://nodejs.org/en/)
+* [Handlebars](https://handlebarsjs.com/)
+* [DOTENV](https://www.npmjs.com/package/dotenv)
+* [bcrypt](https://www.npmjs.com/package/bcrypt)
+* [Express](https://www.npmjs.com/package/express)
+* [Sequelize](https://sequelize.org/)
 
 
 ## Authors and Acknowledgements:
