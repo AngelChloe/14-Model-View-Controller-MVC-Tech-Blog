@@ -8,10 +8,9 @@
 3. [Acceptance Criteria](#acceptance-criteria)
 4. [Heroku Link](#heroku-link)
 5. [Screen Shots](#screen-shots)
-6. [Resources](#resources)
-7. [Usage](#usage)
-8. [Built with](#built-with)
-9. [Authors and Acknowledgements](#authors-and-acknowledgements)
+6. [Usage](#usage)
+7. [Built with](#built-with)
+8. [Authors and Acknowledgements](#authors-and-acknowledgements)
 
 ## Task
 
@@ -78,11 +77,6 @@ As a developer who writes about tech, I want a CMS-style blog site so that I can
 ![NewPostAdded](https://user-images.githubusercontent.com/105569378/194733506-4c1aabbf-6271-46bf-8431-183bc5635c65.png)
 
 
-## Resources
-
-- [Repository](https://github.com/Cinderbeast/14-Model-View-Controller-MVC-Tech-Blog)
-
-
 ## Usage
 
 - install npm init -y to create a new .json file
@@ -113,4 +107,3 @@ As a developer who writes about tech, I want a CMS-style blog site so that I can
 ## Authors and Acknowledgements:
 
 Code created by University of Utah Bootcamp, edited by Cindy Chynoweth and with the help of other fabulous developers out there!
-
